@@ -1,0 +1,12 @@
+@import '../../bower_components/foundation-sites/assets/foundation';
+
+$brand-primary: #41b883;
+$brand-secondary: #35495e;
+
+@import 'base';
+@import 'header';
+@import 'navigation';
+@import 'content';
+@import 'footer';
+
+

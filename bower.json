@@ -1,0 +1,24 @@
+{
+    "name": "vuefoundation",
+    "description": "A Vue.js project with Foundation 6 and Vue Router",
+    "main": "index.html",
+    "authors": [
+        "Grant Pimpler <gpimpler@grantpimpler.com>"
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "foundation-sites": "~6.1.2",
+        "motion-ui": "~1.1.0",
+        "foundation-sites": "~6.2.0",
+        "motion-ui": "~1.2.2"
+    }
+}
