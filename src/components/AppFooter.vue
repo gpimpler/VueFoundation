@@ -1,5 +1,5 @@
 <template>
-    <div class="appFooter">
+    <div class="footer">
         {{title}}
     </div>
 </template>

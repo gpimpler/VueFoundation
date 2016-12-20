@@ -1,6 +1,6 @@
 <template>
-    <div class="appHeader">
-        <img src="./src/assets/logo-vuejs.png"/> <span class="headerTitle">{{title}}</span>
+    <div class="header">
+        <img src="./src/assets/logo-vuejs.png"/> <span class="header-title">{{title}}</span>
     </div>
 </template>
 
