@@ -1,9 +1,9 @@
 <template>
     <div class="row expanded">
         <h1>Can't get enough of these routes?</h1>
-        <p>Okay, so you need a third route to be truly be sure that this router thing is working. And here it is.</p>
-        <div class="row">
-            <div class="small-12 medium-4 columns">
+        <p>Okay, so you need a third route to be truly sure that this router thing is working. And here it is.</p>
+        <div class="row small-up-1 medium-up-2 large-up-3">
+            <div class="columns columns-block">
                 <h3>Something Witty.</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
                     et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -11,14 +11,14 @@
                     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
                     culpa qui officia deserunt mollit anim id est laborum.</p>
             </div>
-            <div class="small-12 medium-4 columns">
+            <div class="columns columns-block">
                 <h3>Something Funny.</h3>
                 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
                     totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
                     dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
                     sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
             </div>
-            <div class="small-12 medium-4 columns">
+            <div class="columns columns-block">
                 <h3>Something Nerdy.</h3>
                 <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
                     deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non
